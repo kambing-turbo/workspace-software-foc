@@ -1,0 +1,13 @@
+# Ignore Eclipse/STM32CubeIDE metadata
+.metadata/
+.recommenders/
+Local/
+RemoteSystemsTempFiles/
+
+# Ignore build output (folder Debug/Release)
+Debug/
+Release/
+
+# Ignore local settings
+*.prefs
+.settings/
